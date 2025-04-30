@@ -8,4 +8,6 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+[Open an issue](https://github.com/christianishimwe/Docky/issues/new) on GitHub.
+
+If unfamiliar with GitHub, email michaelimevbore17@gmail.com for any further issues or questions
