@@ -11,6 +11,8 @@ defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
 
+relativeURLs = true
+
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
 #enableGitInfo = true
