@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /404.html
+Sitemap: https://mimevbore17.github.io/docky-landing-page-new/sitemap.xml
